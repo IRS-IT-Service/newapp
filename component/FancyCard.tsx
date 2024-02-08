@@ -17,7 +17,7 @@ style={styles.cardImage}
 <View style={styles.cardBody}>
 <Text style={styles.cardTitle}>Technical Eye</Text>
 <Text style={styles.cardLabel}>Feel the technology</Text>
-<Text style={styles.cardDiscription}>Technological Surveillance: "Technical eyes" may describe surveillance systems equipped with advanced technology, such as cameras, sensors, or AI algorithms, used for monitoring purposes in various settings like security, traffic management, or environmental monitoring</Text>
+<Text style={styles.cardDiscription}>Technological Surveillance: "Technical eyes" may describe surveillance systems equipped with advanced technology, such as cameras, sensors, or AI algorithms, used for monitoring purposes in various settings like security, traffic managementenvironmental monitoring</Text>
 <Text style={styles.cardFooter}>Card Footer</Text>
 </View>
         </View>
