@@ -43,7 +43,7 @@ function App(): React.JSX.Element {
       </ScrollView>
     </SafeAreaView>
   );
-}
+} 
 
 const styles = StyleSheet.create({
 
